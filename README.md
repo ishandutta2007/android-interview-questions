@@ -1195,6 +1195,8 @@ Android Interview Questions and Answers:
 
 ### Prepare for Machine Learning Interview: [Machine Learning Interview Questions](https://github.com/amitshekhariitbhu/machine-learning-interview-questions)
 
+### Prepare for AI Engineering Interview: [AI Engineerin Interview Questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions)
+
 ## Fast-Track Android Interview Preparation: [Join Outcome School Android Program](https://outcomeschool.com/program/android)
 
 ### Found this project useful :heart:
